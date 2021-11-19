@@ -1,11 +1,4 @@
-/* Our CSS file. */
-.container{
-width: 100%;
-height: 100%;
-background-color:lightblue;
-padding:30px;
-padding-top: 100px;
-}
+
 .body{
     border:none;
     margin:2%;
@@ -34,8 +27,10 @@ padding-top: 100px;
     font-family:verdana;
     background:#FFFFFF;
 }
-  
-.p{
+.P{
     padding:2%;
 }
+
+    
+
   
