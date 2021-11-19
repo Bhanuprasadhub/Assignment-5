@@ -1,7 +1,41 @@
 /* Our CSS file. */
-
-
-.container, .content {
+.container{
 width: 100%;
 height: 100%;
+background-color:lightblue;
+padding:30px;
+padding-top: 100px;
 }
+.body{
+    border:none;
+    margin:2%;
+}
+.card{
+    display: flex;
+    padding:3%;
+}
+.img{
+    border:none;
+    background:lightgreen;
+}
+.a{
+    border:none;
+    background:lightgreen;
+    border-radius: 25px;
+    padding:2%;
+    margin:40%;
+    justify-content:center;
+    
+}
+.h1,p{
+    text-align:center;
+    border:none;
+    margin:10%;
+    font-family:verdana;
+    background:#FFFFFF;
+}
+  
+.p{
+    padding:2%;
+}
+  
